@@ -106,7 +106,7 @@ Figura 7. Comando **"docker run "**.
 
 Figura 8. Comando **"docker cp "**.
 
-![image](https://github.com/user-attachments/assets/e51c20b9-38a7-4237-af58-a4ea45c251cc)
+![image](https://github.com/user-attachments/assets/8a8c423e-a7ba-4127-8360-13b910ad6038)
 
 
 
